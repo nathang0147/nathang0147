@@ -6,10 +6,9 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 # 📊 GitHub Stats:[![](https://visitcount.itsvg.in/api?id=nathang0147&icon=0&color=7)](https://visitcount.itsvg.in) 
-![](https://github-readme-stats.vercel.app/api?username=nathang0147&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=nathang0147&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nathang0147&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+![]<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathang0147&show_icons=true&locale=en&layout=compact" alt="nathang0147" /></p>
+![]<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nathang0147&show_icons=true&locale=en" alt="nathang0147" /></p><br/>
+![]<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nathang0147&" alt="nathang0147" /></p>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
